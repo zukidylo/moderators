@@ -1,5 +1,5 @@
 # English African dialect language moderator candidates list
 ## network
 
-- Discord user name: `network#7830`
-- UnUniFi address : `ununifi1qxfymvcz8h2ahnapezz2ed4awh29qswygt2prx`
+- Discord user name: `zuki#4110`
+- UnUniFi address : `ununifi16600agde4q3tkmlt36xac7yfujjl0a7ywte6yn`
